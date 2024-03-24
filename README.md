@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**manuelcastro95/manuelcastro95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Manuel Castro! </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p><em>Web Developer </em></p>
+
+[![Linkedin: manuel-castro-minotta](https://img.shields.io/badge/-manuelcastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-castro-minotta/)](https://www.linkedin.com/in/manuel-castro-minotta/)
+[![GitHub ManuelCastro95](https://img.shields.io/github/followers/manuelcastro95?label=follow&style=social)](https://github.com/manuelcastro95 )
+
+
+A little more about me...  
+
+```js
+const manuelcastro = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Laravel, Tailwid],
+  tools: [React, Node]
+}
+```
+
+---
