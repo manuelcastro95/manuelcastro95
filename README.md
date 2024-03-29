@@ -8,13 +8,11 @@
   <strong>Habilidades Técnicas:</strong>
   
   <strong>Back-end:</strong>
-  <ul>
-    
+ 
     <li>PHP y Laravel: He desarrollado aplicaciones web seguras y eficientes utilizando PHP y Laravel como mi principal herramienta.</li>
     <li>Creación de APIs RESTful: Diseño e implemento APIs RESTful para una comunicación fluida entre el front-end y el back-end.</li>
     <li>MySQL: Poseo amplia experiencia en el diseño y desarrollo de bases de datos con MySQL.</li>
-    
-  </ul>
+
   Front-end:
   
   JavaScript, React y Node.js: Dominio de estas tecnologías para crear interfaces de usuario interactivas y receptivas.
